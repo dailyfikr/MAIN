@@ -166,7 +166,7 @@ $.extend(MapsLib, {
 
 
     // Title bar (including title of website)
-    title: "Plano Jowla Map",
+    title: "Jowla Map",
 
     // Contents of the About Page.  You can use "{title}" to insert your title.
   //  aboutPage: "<h3>About This Site</h3> <p> <a href = 'http://form.jotform.us/form/41133016296144'>REPORT A TILE HERE</a> </p><p>This map documents all known Toynbee Tiles reported and verified since the late 1980's.  The collection is curated by <a href='http://photos.steveweinik.com/'>Steve Weinik</a>. </p><p>This mapping app was built by <a href='http://about.me/maneeshasane'>Maneesha Sane</a> using a template developed by <a href='http://codeforsanfrancisco.org/Mobile-Fusion-Tables/'>Code for America San Francisco</a>. </p> <p>To report a tile or if you find any information is missing or inaccurate, please <a href='http://form.jotform.us/form/41133016296144'>let us know</a>.</p> <p>THANK YOU AND GOODBYE.</p>"  ,
