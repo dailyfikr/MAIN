@@ -131,6 +131,7 @@ $.extend(MapsLib, {
             ]},
             {label: "Name", type: "text", column: "Name"},
             {label: "SubDivision", type: "text", column: "SubDivision"},
+	    {label: "Comments", type: "text", column: "Comments"},
         ],
     },
 
